@@ -94,6 +94,3 @@ This application is intended for educational and informational purposes only. Th
 ## 👩‍💻 Author
 
 **Indah Marsya Fitadea**
-
-- GitHub: [@indhmrsyaa](https://github.com/indhmrsyaa)
-- Repository: [Skin Type Detection – Expert System](https://github.com/indhmrsyaa/Skin-Type-Detection-Sistem-Pakar-)
